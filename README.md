@@ -20,8 +20,8 @@ This project aims to classify ECG (Electrocardiogram) signals into two categorie
 
 ## Dataset
 
-The dataset used in this project is the MIT-BIH Arrhythmia Database, available on [Kaggle]
-(https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset)
+The dataset used in this project is the MIT-BIH Arrhythmia Database, available on 
+https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset
 The dataset contains multiple classes of arrhythmias, which are consolidated into two classes for binary classification: "arrhythmia" and "normal".
 
 ## Models Used
@@ -45,7 +45,7 @@ To run the project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-3. Download the MIT-BIH Arrhythmia Database CSV file from [Kaggle][https://www.kaggle.com](https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset) and place it in the project directory.
+3. Download the MIT-BIH Arrhythmia Database CSV file from [https://www.kaggle.com](https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset) and place it in the project directory.
 
 
 ## Usage
