@@ -21,7 +21,7 @@ This project aims to classify ECG (Electrocardiogram) signals into two categorie
 ## Dataset
 
 The dataset used in this project is the MIT-BIH Arrhythmia Database, available on [Kaggle]
-(https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset))
+(https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset)
 The dataset contains multiple classes of arrhythmias, which are consolidated into two classes for binary classification: "arrhythmia" and "normal".
 
 ## Models Used
